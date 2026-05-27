@@ -5,6 +5,7 @@
     "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsc",
+        "dev": "vite",
         "test": "jest"
     },
     "dependencies": {
